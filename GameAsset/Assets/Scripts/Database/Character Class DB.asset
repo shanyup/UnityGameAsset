@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55752d5fbf0250c408394c279fab8275, type: 3}
+  m_Name: Character Class DB
+  m_EditorClassIdentifier: 
+  CharacterClasses:
+  - ClassName: 0
+    tip1GO: {fileID: 0}
+    tip2GO: {fileID: 0}
+    Health: 100
+    Speed: 5
+    Damage: 75
+  - ClassName: 1
+    tip1GO: {fileID: 0}
+    tip2GO: {fileID: 0}
+    Health: 150
+    Speed: 3
+    Damage: 45
